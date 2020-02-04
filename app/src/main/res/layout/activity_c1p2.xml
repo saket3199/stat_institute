@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".c1p2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10sp"
+            android:text="Part 5"
+            android:textColor="#008FFF"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView34"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="COMMODITY MARKET"
+            android:textColor="#0088F3"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="10sp"
+            android:paddingRight="5sp"
+            android:text="@string/c1p3"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView36"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="Basics Market Details"
+            android:textSize="16dp" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:adjustViewBounds="true"
+            android:cropToPadding="false"
+            android:paddingTop="10sp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/p5i1" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="ANALYSING COMMODITY MARKET DETAILS"
+            android:textSize="16dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:adjustViewBounds="true"
+            android:cropToPadding="false"
+            android:paddingTop="10sp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/p5i2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="BASIC MARKET DETAILS"
+            android:textSize="16dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:adjustViewBounds="true"
+            android:cropToPadding="false"
+            android:paddingTop="10sp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/p5i3" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="30sp"
+            android:text="Part 6"
+            android:textColor="#008FFF"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="CURRENCY MARKET"
+            android:textColor="#0088F3"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="10sp"
+            android:paddingRight="5sp"
+            android:text="@string/c1p6"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="BASIC MARKET DETAILS"
+            android:textSize="16dp" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:adjustViewBounds="true"
+            android:cropToPadding="false"
+            android:paddingTop="10sp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/p5i4" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="ANALYSING CURRENCY MARKETs"
+            android:textSize="16dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:adjustViewBounds="true"
+            android:cropToPadding="false"
+            android:paddingTop="10sp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/p5i5" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="BASIC MARKET DETAILS"
+            android:textSize="16dp" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:adjustViewBounds="true"
+            android:cropToPadding="false"
+            android:paddingTop="10sp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/p5i6" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="30sp"
+            android:text="Part 7"
+            android:textColor="#008FFF"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="How To Start?"
+            android:textColor="#0088F3"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="10sp"
+            android:paddingRight="5sp"
+            android:text="@string/p1p7"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="BASIC STRUCTURE OF INDIAN STOCK MARKET"
+            android:textSize="16dp" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:cropToPadding="false"
+            android:paddingTop="10sp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/p7i1" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="BASIC MARKET DETAILS TO STRAT TRADING IN STOCK MARKET."
+            android:textSize="16dp" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:cropToPadding="false"
+            android:paddingTop="10sp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/p7i2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="20dp"
+            android:layout_marginTop="20dp"
+            android:text="CHECK LIST TO START TRADING"
+            android:textSize="16dp"
+            android:textColor="#0088F3"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="10sp"
+            android:paddingRight="5sp"
+            android:text="@string/starttrading"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="20dp"
+            android:layout_marginTop="20dp"
+            android:text="DO’S AND DON’TS"
+            android:textSize="16dp"
+            android:textColor="#0088F3"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="10sp"
+            android:paddingRight="5sp"
+            android:text="@string/dos"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+</ScrollView>

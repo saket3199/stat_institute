@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".l2p7">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10sp"
+            android:text="Part 7"
+            android:textColor="#008FFF"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView34"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="FIBONACCI"
+            android:textColor="#0088F3"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="30sp"
+            android:paddingRight="5sp"
+            android:text="@string/fibonacci"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Automated levels will be formed"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i1" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Draw from top to bottom"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="10dp"
+            android:paddingTop="10sp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Top is the start and bottom is the end"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i3" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="image"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i4" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Extended levels of resistance"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i5" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="On break of the top, market rallied"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i6" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Fib retracement and Fib arcs levels intersects"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i7" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="RESPECTS THE ARC"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i8" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Fibonacci Fan"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i9" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Fib retracement and Fib fan levels intersects"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i10" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="MODULE FIBONACCI"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="30sp"
+            android:paddingRight="5sp"
+            android:text="@string/mfibonacci"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="BRANDS"
+            android:textColor="#0088F3"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="30sp"
+            android:paddingRight="5sp"
+            android:text="@string/brands"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Bollinger Band"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i11" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Down Trend"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i12" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Side Way Trend"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i13" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Up Trend"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i14" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="KELTNER BAND"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="30sp"
+            android:paddingRight="5sp"
+            android:text="@string/kbrands"
+            android:textSize="20sp" />
+
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="40dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="Keltner Band"
+        android:textSize="18sp"
+        android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i15" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Keltner Band in Down Trend"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i16" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Keltner Band in Side way Trend"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i17" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Keltner Band in Up Trend"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i18" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="HOW TO TRADE BOLLINGER BAND AND KELTNER BAND"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i19" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="WHEN BB IS OUTSIDE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i20" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="SHORT AND COVER WHEN BB IS OUTSIDE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i21" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="WHEN BB IS INSIDE THE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i22" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="SHORT TRADE, WHEN BB INSIDE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i23" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="SHORT TRADE WHEN, BB INSIDE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i24" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="SHORT AND COVER AT BB BOTTOM BAND."
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i25" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="BUY WHEN BB IS INSIDE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i26" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="BUY WHEN BB IS INSIDE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i27" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="SELL WHEN BB IS INSIDE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i28" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="SELL WHEN BB IS INSIDE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i29" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="BB OUTSIDE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i30" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="BUY WHEN BB OUTSIDE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i31" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="BUY WHEN BB IS OUTSIDE KB"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i32" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="30sp"
+            android:paddingRight="5sp"
+            android:text="@string/pbrands"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="VOLUME"
+            android:textColor="#0088F3"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="30sp"
+            android:paddingRight="5sp"
+            android:text="@string/volume"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="VOLUME"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i33" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="VOLUME FOR CONFIRMATION OF TREND"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i34" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="VOLUME FOR CONFIRMATION OF TREND"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i35" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="VOLUME FOR REVERSAL OF TREND"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i36" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="YOUR CHART"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i37" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Good opportunity for break out"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i38" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Support"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i39" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Resistance is not breaking as volume falling"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i40" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Support is broken as volume rises"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i41" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Rise in volume and fall in price"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i42" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="Support is broken with little rise in volume"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i43" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="One more incident of rise in volume and breakout"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p7i44" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="30sp"
+            android:paddingRight="5sp"
+            android:text="@string/cvolume"
+            android:textSize="20sp" />
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

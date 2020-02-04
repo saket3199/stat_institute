@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".l2p6">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="10sp"
+        android:text="Part 6"
+        android:textColor="#008FFF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="SUPPORT AND RESISTANCE"
+        android:textColor="#0088F3"
+        android:textSize="18sp"
+        android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="30sp"
+            android:paddingRight="5sp"
+            android:text="@string/l2p6"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="RESISTANCE IN CHART"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+
+        <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:paddingTop="10sp"
+        android:paddingBottom="10sp"
+        app:srcCompat="@drawable/l2p6i1" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="RESISTANCE IN CHART"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p6i2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="RESISTANCE IN CHART"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p6i3" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="RESISTANCE IN CHART"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p6i4" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="BREAK OF RESISTANCE"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p6i5" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="CONVERSION OF RESISTANCE INTO SUPPORT"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l2p6i6" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="PROJECT FOR THE WEEK"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="30sp"
+            android:paddingRight="5sp"
+            android:text="@string/pfw"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</ScrollView>

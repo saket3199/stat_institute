@@ -9,13 +9,58 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".algotrading_dash"></activity>
+        <activity android:name=".Ai2"></activity>
+        <activity android:name=".Ai1" />
+        <activity android:name=".l2p7" />
+        <activity android:name=".l2p6" />
+        <activity android:name=".l1p5" />
+        <activity android:name=".l1p4" />
+        <activity android:name=".l1p3" />
+        <activity android:name=".l1p2" />
+        <activity android:name=".l1p1" />
+        <activity android:name=".c2l3" />
+        <activity android:name=".c2l2" />
+        <activity android:name=".c2l1" />
+        <activity android:name=".c1p2" />
+        <activity android:name=".c1p1" />
+        <activity android:name=".result"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".testpage" />
+        <activity android:name=".notifications2" />
+        <activity android:name=".Notifications" />
+        <activity android:name=".ac17" android:screenOrientation="portrait" />
+        <activity android:name=".ac18" android:screenOrientation="portrait" />
+        <activity android:name=".ac16" android:screenOrientation="portrait"/>
+        <activity android:name=".ac15" android:screenOrientation="portrait"/>
+        <activity android:name=".ac14" android:screenOrientation="portrait"/>
+        <activity android:name=".ac13" android:screenOrientation="portrait" />
+        <activity android:name=".ac12" android:screenOrientation="portrait" />
+        <activity android:name=".ac11" android:screenOrientation="portrait" />
+        <activity android:name=".ac10" android:screenOrientation="portrait" />
+        <activity android:name=".ac9" android:screenOrientation="portrait" />
+        <activity android:name=".ac8" android:screenOrientation="portrait"/>
+        <activity android:name=".ac7" android:screenOrientation="portrait"/>
+        <activity android:name=".ac6"  android:screenOrientation="portrait" />
+        <activity android:name=".ac5" android:screenOrientation="portrait"/>
+        <activity android:name=".ac4" android:screenOrientation="portrait"/>
+        <activity android:name=".ac3"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ac2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ac1"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".algotrading_dash" />
         <activity android:name=".forgetpassword" />
-        <activity android:name=".Dashboard2" />
-        <activity android:name=".dashboard" />
-        <activity android:name=".login2" />
-        <activity android:name=".Login" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".Dashboard2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".dashboard"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".login2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Login"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

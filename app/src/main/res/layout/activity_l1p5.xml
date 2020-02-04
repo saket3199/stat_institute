@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".l1p5">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="10sp"
+        android:text="Part 5"
+        android:textColor="#008FFF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="ACCESSING CHARTS"
+        android:textColor="#0088F3"
+        android:textSize="18sp"
+        android:textStyle="bold|italic" />
+
+
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="30sp"
+            android:paddingRight="5sp"
+            android:text="@string/l1p5"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="ACCESSING CHARTS"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20sp"
+            android:paddingTop="30sp"
+            android:paddingRight="5sp"
+            android:text="@string/accessingcharts"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l1p5i1" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l1p5i2" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l1p5i3" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l1p5i4" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l1p5i5" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:paddingTop="10sp"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/l1p5i6" />
+
+
+    </LinearLayout>
+
+</ScrollView>

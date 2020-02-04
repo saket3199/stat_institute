@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "758674996233-ls6u43tta17qaar1r31e8pgp5snv8acf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.statinsti.app",
+            "certificate_hash": "80ae78232202223d389c29cb537e6524421370bd"
+          }
+        },
+        {
           "client_id": "758674996233-08k516h7feh91n8a7u9ht7cp7oef5m97.apps.googleusercontent.com",
           "client_type": 3
         }

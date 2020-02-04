@@ -1,3 +1,861 @@
 <resources>
     <string name="app_name">Stat Institute</string>
+    <string name="c1p1">There are three basic markets that are available for trader to trade online, they are\n\n<ol>
+        <li>Stock market.\n</li>
+<li>Commodity market.\n</li>
+<li>Currency market.\n</li></ol>
+These markets are further divided in different sections, like:\n\n
+Spot market and derivatives.\n\n
+<b>Trillions of dollars are traded world over in these markets. They are all online, and one can trade from any part of the world.\n</b>
+ Let’s understand these interesting markets in details.\n
+</string>
+    <string name="c1p2">Futures market is a contract where in the stock, commodity or currency is traded\n
+        in standardized future contract.\n\n
+These contracts have fixed lot size, date of expiry, tick size\n
+and unit of price quotation. The buyer and seller agree to buy or sell at certain price and deliver or settle at the end of the contract.\n
+        <b>Futures is derivative market, it is called derivative, since the price is derived from its spot market.</b>
+</string>
+    <string name="c1p2_1">
+        Futures market is traded on margin, since the delivery or settlement takes place at \nthe expiry, a partial margin is collected by the exchange and broker.\n
+Suppose: ABC Ltd futures is traded  @ 100/ and the lot size of futures contract is 250 Shares. Than value of the contract is :\n
+100 X 250 = 25000/ but buyer may have to just pay say 10% of the value, i.e:\n
+25000 X 10% = 2500/\n
+        <b> one can buy or sell shares of 25000/- buy investing only 2500/.</b>
+        Futures market is traded on margin, since the delivery or settlement takes place at \nthe expiry, a partial margin is collected by the exchange and broker.\n Margins may vary from Instrument to instrument, like for equity or index it can be from 10% to 40%, currency may have 3% to 5%. \nLot depends on volatility of the instrument.
+In instruments like Commodities futures, which have delivery at the expiry, the margins can rise as the expiry approaches. \nMargins may also rise, in case of rise in volatility of the instrument.
+<b>\nBrokers opens limit for client to trade in futures depending upon the margin deposited With the broker. This margin is called the initial margin/ span margin.
+\n</b>
+        Since the trade will be settled in future, the daily market movement of the instrument is balanced by MTM ( MARK TO MARKET) margin.
+Lets understand how MTM works.\n Suppose you have bought on 1st January one lot of shares of ABC LTD company in futures @ Rs. 110/- the lot size is of 250 shares/ lot. \nOn 2nd January the price has moved up to Rs. 115/- so ( 115- 110) =Rs. 5/-. So, the exchange will pay you a MTM of Rs. 5 x 250 ( shares) = Rs. 1250/- This is called the pay out.\n Now suppose on 3rd January the price comes down to Rs. 107/-. So, there is (115- 107) = Rs. 8/- loss and you will have to pay to the exchange Rs. 8 x 250 ( shares) = Rs. 2000/- this is called pay in.
+<b>Till the trade is not squared off or contract settles,\n this MTM is calculated and paid or received on daily basis.
+</b>
+    </string>
+    <string name="c1p1p3">
+        <ol>
+            <li>
+                Option is an instrument that \ngives the right to buy or sell to the buyer,\n but not an obligation to buy or \nsell at specified price and or within specified date.
+            \n</li>
+            <li>
+                An ‘Option’ is part of derivative market,\n which allows the buyer to enter the trade by paying \na premium against which the seller of option \nor the option writer guarantees \nthe right of the buyer to buy or sell the contract\n at specified price.
+           \n </li>
+            <li>
+                Call option is bought by trader when he/ she is expecting the market to move up. \nCall option seller or call option writer is one who is not expecting market to move up.\n Call option seller will charge a premium \nto call option buyer for selling the call.
+            \n</li>
+            <li>
+                Call option gives right to the buyer to buy the instrument at given price before the specified date or on settlement date,but not an obligation.\n The maximum investment that a buyer needs to make is the premium paid to the seller.\n  Also, the maximum loss that a buyer can make is the premium paid.\n But the chances of profit can be limitless.
+            \n</li>
+            <li>
+
+            </li>
+        </ol>
+    </string>
+    <string name="PUTOPTION"><ol>
+        <li>Put option is bought by trader when he/ she is expecting the market to move down. Put option seller or put option writer is one who is not expecting market to move down. Put option seller will charge a premium to put option buyer for selling the put.\n</li>
+        <li>
+Put option gives right to the buyer to sell the instrument at given price before the specified date or on settlement date, but not an obligation. The maximum investment that a buyer needs to make is the premium paid to the seller.  Also, the maximum loss that a buyer can make is the premium paid. But the chances of profit can be limitless.
+        \n</li>
+        <li>Let’s assume that ABC LTD option lot is of 250 shares, current market price (CMP) of one share is  Rs.100/-. Suppose you decide to buy put option of Strike price Rs. 100/-  it is called At the money option (ATM), since it is at same price as current market price. As buyer you only have to pay premium, i.e. assume Rs. 5/-
+\n</li>
+        <li>But the seller may have to pay higher margin, may be equal to  the futures margin.
+\n</li><li>Also, the seller of the option will have to pay for MTM in case the market moves against the strike price he has sold the option at.
+   \n </li>
+    </ol>
+    </string>
+    <string name="tradinggyaan">
+        <ol>
+            <li>
+                Always start trading in options only after you have been trading profitably.
+           \n </li>
+            <li>
+                Always buy options in your learning stage.
+            \n</li>
+            <li>
+                Never sell or write options, unless you have become an expert trader.
+           \n </li>
+        </ol>
+    </string>
+    <string name="equityt">
+        <ol>
+            <li>
+                Equity market or stock market, is commonly traded market in India. When one buys a share of any public limited company, he / she becomes a deemed owner of that company to the extent of the value of the shares mentioned on shares certificate.
+            \n</li>
+            <li>
+                Isn’t it exciting to be small partial owner of any public limited company? So, how does one become so and how does one benefit from it?
+            </li>
+            <li>
+                The stock market is constantly volatile and if the company you, does well, it’s share value goes up, and you make profit. have invested in
+            \n</li>
+            <li>
+                Also, profitable companies issue Dividend or Bonus shares which again can benefit the investor. Don’t forget if the company does not make profit, shares prices can come down, and you may end up losing.
+            \n</li>
+            <li>
+So let us understand Equity market, before we start trading?\n
+            </li>
+        </ol>
+    </string>
+    <string name="ch4">
+        <ol>
+            <li>
+                Start trading with equity in very small quantity.\n</li>
+            <li>
+                Once traded equity profitably move to options buying in small lots and OTM.\n</li>
+            <li>
+                Next step is to move to trading in index.\n</li>
+            <li>
+                Followed by futures.\n</li>
+        </ol>
+    </string>
+
+    <string name="c1p3">
+    <ol>
+        <li>Commodity market, is not commonly traded market in India. One can buy or sell Commodity in futures market, for shorting the commodity, one need not own it or have stock of it.\n</li>
+        \n
+        <li>Commodity market is highly volatility compared to equity.\n</li>
+        \n
+        <li>
+            Commodity Futures was one of the commonly traded market before 1965, when many traders used to trade in agri futures like cotton, castor, etc. In 1965, government had banned the futures trading in commodities. Which was again started in 2003.\n
+        </li>
+        \n
+        <li>So let us understand how does one trade in commodities futures?\n</li>
+
+
+    </ol>
+
+    </string>
+    <string name="c1p6">
+        <ol>
+            <li>Currency market trades trillions of dollar daily around the world. The commodity is the mother of currency. Commodity were used for barter, with times, metals were being used for barter which further improvised to use of gold and silver coins for barter, that were later on marked a standardized. This was the first currency, which later matured into paper currency.\n</li>
+        </ol>
+    </string>
+    <string name="p1p7">
+        <ol>
+            <li>By now you must have understood the basics of the Indian market? We have gone through different types of markets and their basics. We have understood different sectors and their scripts and lots.\n</li>\n
+            <li>In this chapter, we will study how to start and what you will need to trade in the stock market?\n</li>\n
+            <li>“Unfortunately, there seems to be far more opportunity out there than ability.... We should remember that good fortune often happens when opportunity meets with preparation.” ― Thomas A. Edison  \n</li>\n
+        </ol>
+    </string>
+    <string name="starttrading">
+        <ol>
+            <li>Paper trading is profitable?\n</li>
+            <li>Make list of expected services from the broker.\n</li>
+            <li>Make list of brokers providing the services you have listed.\n</li>
+            <li>Compare the charges and brokerages, of the brokers you have listed.\n</li>
+            <li>Do not be carried away by low brokerages, ensure that the broker has good reputation.\n</li>
+            <li>Does the broker give trade and account balance on daily basis?\n</li>
+            <li>Pay out of the broker should be prompt.\n</li>
+            <li>If you are going to trade in futures and option, leverage provided by broker is important.\n</li>
+            <li>Trading software should be informative and consistent.\n</li>
+            <li>Trading software should not delay in price updates.\n</li>
+            <li>Broker should have trade on phone, in case of disconnection at your end.\n</li>
+            <li>Decide on your trading capital. Open bank account preferably for trading only.\n</li>
+            <li>Finalize broker, open a trading account and demat account.\n</li>
+            <li>Installing trading software in your computer as well as mobile.\n</li>
+        </ol>
+    </string>
+
+    <string name="dos">
+    <ol>
+        <b>DO\'S</b>\n\n\n
+        <li>Open trading account with a reputed brokers, preferably one who provides all sectors of market.\n</li>
+        <li>Get training from brokers customer support and understand the trading software, before entering  your first trade.\n</li>
+        <li>Take advise from professional market researcher, many of the brokers provide this service.\n</li>
+        <li>Always decide on your stop loss, before you enter trade.\n</li>
+        <li>Learn skills like technical analysis or fundamental analysis or if you are comfortable with software, than machine learning.\n</li>
+        <li>Always note your trade and maintain a trade journal. Always check with the brokers contract note and inform about any mismatches immediately.\n</li>
+        <li>Start with spot market in small quantity or if you would like to try F and O, than currency options you may buy put or call.\n</li>
+        <li>Never fall in love with your losing position, wise traders always cut their losing trades.\n</li>
+        <li>Trade in scripts that have good volume and open interest. Avoid dry contracts. Prefer blue chip scripts.\n</li>\n\n
+
+
+        <b>DON\'TS</b>\n\n\n
+        <li>Don\'t trade with your money, without paper trading for some time.\n</li>
+        <li>Even if you are following some professional advisor, paper trade their calls prior to investing.\n</li>
+        <li>Don\'t assume that if someone is professional advisor, means he/she will be always right in his/ her decision.\n</li>
+        <li>Don\'t trade with your money, without stop loss.\n</li>
+        <li>Don\'t blindly follow someones trade call, cross check with your own trade module. Do your research.\n</li>
+        <li>Don\'t over trade and never fail in your pay in or margin call. Never fight with the market.\n</li>
+        <li>Don\'t trade in futures and option (Specially writing/ selling of options) unless you have learned trading and are comfortable with high risk instruments.\n</li>
+        <li>Don\'t assume that a script which has low price is safe buy. Never try to time the market.\n</li>
+        <li>Don\'t increase your lot size on making few profitable trades. Get consistently profitable first.\n</li>
+
+
+    </ol>
+    </string>
+
+    <string name="l1p1">
+
+        <ol>
+            <b>Jesse Livermore</b>\n
+            <li>Born in 1877, Jesse Livermore is one of the greatest traders that few people know about. While a book on his life written by Edwin Lefevre, Reminiscences of a Stock Operator (1923), is highly regarded as a must-read for all traders</li>\n\n
+            <b>BREAK OUT TRADING</b>\n
+            <li><b>Breakout trading</b> is used by active investors to take a position within a trend\'s early stages. Generally speaking, this <b>strategy</b> can be the starting point for major price moves, expansions in volatility and, when managed properly, can offer limited downside risk.</li>\n\n
+            <b>SCALPING</b>\n
+            <li>Scalping is a trading style specializing in taking profits on small price changes, generally soon after a trade has been entered and has become profitable. It requires a trader to have a strict exit strategy, because one large loss could eliminate the many small gains that the trader has worked to obtain.</li>\n\n
+            <b>MOMENTUM</b>\n
+            <li>Momentum trading is more than identifying which way a stock is trending, it is a trading strategy that focuses on stocks or other trading instruments that are showing a strong move in a particular direction, usually on high volume, within a specified time period.\n</li>\n\n
+            <b>SWING TRADING</b>\n
+            <li>Swing Trading is a short term trading method that can be used when trading stocks and options. Whereas Day Trading positions last less than one day, Swing Trading positions typically last two to six days, but may last as long as two weeks.</li>\n\n
+            <b>TECHNICAL TRADING</b>\n
+            <li>Using Technical Indicators To Develop Trading Strategies. Indicators, such as moving averages and Bollinger Bands, are mathematically based technical analysis tools that traders and investors use to analyse the past and predict future price trends and patterns.</li>\n\n
+            <b>FUNDAMENTAL TRADING.</b>\n
+            <li>To some extent, the same is done in the retail forex market, where forex fundamental traders evaluate currencies, and their countries, like companies and use economic announcements to gain an idea of the currency\'s true value .....Fundamental traders look at all of this information to evaluate a country\'s currency. Similarly company balance sheet and news are evaluated.</li>\n\n
+            <b>HFT</b>\n
+            <li>Secrecy, Strategy and Speed are the terms that best define high frequency trading (HFT) firms and indeed, the financial industry at large as it exists today. ... The firms in the HFT business operate through multiple strategies to trade and make money in pips or part of it. High frequency traders hunt for market inefficiency for fraction of a second and they encash it.</li>\n\n
+            <b>ARBITRAGE</b>\n
+            <li>Arbitrage is the simultaneous purchase and sale of an asset to profit from a difference in the price. It is a trade that profits by exploiting the price differences of identical or similar financial instruments on different markets or in different forms. Arbitrage exists as a result of market inefficiencies. There are multiple strategies to Arbitrage an instrument.</li>\n\n
+            <b>PAIR TRADING</b>\n
+            <li>The pairs trade or pair trading is a market neutral trading strategy enabling traders to profit from virtually any market conditions: uptrend, downtrend, or sideways movement. This strategy is categorized as a statistical arbitrage and convergence trading strategy.</li>\n\n
+
+
+
+        </ol>
+    </string>
+    <string name="types">
+        <ol>
+            <li>BREAK OUT TRADING\n</li>
+            <li>SCALPING\n</li>
+            <li>MOMENTUM\n</li>
+            <li>TECHNICAL TRADING\n</li>
+            <li>FUNDAMENTAL TRADING\n</li>
+            <li>SWING TRADING.\n</li>
+            <li>HFT\n</li>
+            <li>ARBITRAGE\n</li>
+            <li>PAIR TRADING\n</li>
+        </ol>
+    </string>
+    <string name="tradingstratergy">
+        <ol>
+            <li>There are N number of trading strategies being traded and many more will be found. As the technology improves it makes many new strategies to be traded and executed as conceptualized.</li>\n
+            <li>In short we can say that, there is no end to developing new strategies.</li>\n
+        </ol>
+    </string>
+
+    <string name="tradinggyan">
+        <ol>
+            <li>There is no one strategy that is good or bad.\n</li>\n
+            <li>Depending on traders liking he / she can adopt a strategy.\n</li>\n
+            <li>Strategy can also be changed with the time and circumstances.\n</li>\n
+        </ol>
+    </string>
+
+    <string name="l1p2">
+        <ol>
+            <li>If you have a coin, which has its tail side heavier than the head side, you know that out 100 flips, about 70% of times it will be tail down and head up.\n</li>\n
+            <li>So, probability lets you win 70% of time by betting on head up, all the time. Similarly Technical Analysis gives you an upper hand by letting you know the probability of markets direction in future.\n</li>\n
+        </ol>
+    </string>
+
+    <string name="ta">
+        <ol>
+             <li>If you have to choose between 2 roads one with Street Light and one without Street Light Which of the road you would prefer to travel?\n</li>\n
+            <li>Road with street lights, obviously. Similarly technical analysis works like street lights in stock market.\n</li>\n
+        </ol>
+    </string>
+
+    <string name="l1p3">
+        <ol>
+            <li>Charts can be drawn in different way and can be interpreted in different way.\n</li>\n
+            <li>Data remaining same, different types charts may look and indicate differently\n</li>\n
+            <li>Primarily there are four commonly used chart types, they are :\n 1. Line Chart\n 2.Bar Chart\n 3.Point and Figure Chart\n 4.Candle Stick Chart\n</li>\n
+
+        </ol>
+    </string>
+
+    <string name="linecharts">
+        <ol>
+            <li>Line charts are formed by connecting the closing price of the day, or the period that you want.\n
+            </li>\n
+            <li>Line charts are one of the simplest charts.\n</li>\n
+            <li>But line charts are considered as incomplete chart, as they do not give information like open of the period, or high or low of the period, hence it is not used by the professionals.\n</li>\n
+
+        </ol>
+    </string>
+
+    <string name="barcharts">
+        <ol>
+            <li>Bar chart is a made of open, high, low and close rates.\n</li>\n
+            <li>Bar chart has two colors, green or white for bullish bar and red or black color for bearish bar.\n</li>\n
+            <li>Bar charts are used more often than line charts by professional traders.\n</li>\n
+            <li>Bar chart is formed of one vertical line and two horizontal dash, one on left side and one on right side. The vertical lines top indicates the high of the day and bottom indicate the low of the day. The left side dash indicates the open of the day and right side dash indicates the close of the bar.\n</li>\n
+
+        </ol>
+    </string>
+
+    <string name="l1p4">
+        <ol>
+            <li>In this part we will study the rarely used chart, i.e point and figures and most commonly used chart type, that is candle stick.\n</li>\n
+            <li>Point and Figure Chart.\n</li>\n
+            <li>Candle Stick Chart.\n</li>\n
+        </ol>
+    </string>
+
+    <string name="pointandfigure">
+        <ol>
+            <li>Point and Figure charts do not note any time based price, which means this chart only notes price and not time at which price was traded. So, the chart doesn’t have time axis, it only has price axis.\n
+            </li>\n
+            <li>Point and Figure charts are made of Xs and Os. Every upward move of price is noted by plotting a X and for every downward move of price is plotted by O. This X OR O is plotted on chart only if it moves by one unit. So, unit can be of Rs 10/ or Rs 100/ or whatever trader decide.\n</li>\n
+            <li>Point and Figure charts, like Line charts do not cover open, high and low. Point and Figure charts is formed on closing price. Point and figure chart removes the noise of the market. Point and Figure charts are not commonly used charts.\n</li>\n
+        </ol>
+    </string>
+
+    <string name="pf1">
+        <ol>
+            <li>Buy on break of previous upward figure X and exit at the first downward point O.\n</li>\n
+            <li>Similarly on break of previous O, short the script and cover on first X.\n</li>\n
+
+        </ol>
+    </string>
+
+    <string name="candlechart">
+        <ol>
+            <li>Candle Stick charts, are one of the most commonly used charts.\n</li>\n
+            <li>Candle Stick charts are also called the Japanese candle stick charts, since it was found in Japan in 16th century for trading rice.\n</li>\n
+            <li>This also indicates, for centuries technical analysis has survived\n</li>\n
+            <li>Candle Stick are formed of Open, High, Low and Close prices\n</li>\n
+            <li>Similar to Bar chart, candle stick chart also have open, high, low and close details. It also changes color as per bullish candle and bearish candle\n</li>\n
+            <li>There are different types of candles like Doji, Engulfing, Harami, Hammer, Morning Star, etc.\n
+            </li>\n
+        </ol>
+    </string>
+
+    <string name="modulepintfigure">
+        <ol>
+            <li>Find upward breakout on point and figure with screen shot.\n</li>\n
+            <li>Find one downward breakout on point and figure with screenshot.\n</li>\n
+        </ol>
+    </string>
+
+    <string name="l1p5">
+        <ol>
+            <li>
+                As our intention is to help our students to trade like professional without spending too much on software, we give below the different sources to use charts.\n
+            </li>\n
+            <li>www.chartink.com\n</li>\n
+            <li>www.investing.com\n</li>\n
+            <li>www.icharts.in\n</li>\n
+
+        </ol>
+    </string>
+
+    <string name="accessingcharts">
+        <ol>
+            <li>
+                These sites offer intraday as well as the end of the day (EOD) data\n
+            </li>\n
+            <li>
+                There are software that provides only charting, and data can be outsourced, from other independent vendors. Amibroker is one of these kinds.\n
+            </li>\n
+            <li>Amibroker provides 1-month free trial. We will be using www.chartink.com and Amibroker for all our courses.\n</li>\n
+            <li>Disclaimer: We do not have any kind of association with any of the above charting sites or software. Students can choose whichever they find comfortable. \n</li>\n
+
+            <li><b>How to use AMIBROKER charting software?</b></li>\n\n
+
+        </ol>
+    </string>
+
+    <string name="l2p6">
+        <ol>
+            <li>
+                Support and Resistance are levels at which price is expected to turn or halt its trend.\n
+            </li>\n
+            <li>
+                These levels are the one which have been pretested or multi tested prior to broken.\n
+            </li>\n
+            <li>
+                So lets understand different types of support and resistance.\n
+            </li>\n
+        </ol>
+    </string>
+
+    <string name="pfw">
+        <ol>
+            <li>
+                IDENTIFY FOUR SCRIPTS THAT ARE BREAKING RESISTANCE OR SUPPORT AND ABOUT THE MOVE UP.\n
+            </li>\n
+            <li>
+                IDENTIFY TWO SCRIPTS THAT ARE RECONFIRMING THE BREAKOUT AND ARE CONVERTING FROM RESISTANECE TO SUPPORT\n
+            </li>\n
+        </ol>
+    </string>
+
+    <string name="fibonacci">
+        <ol>
+            <li>Fibonacci was a mathematician who found Fibonacci levels, while staying on sea beach.\n</li>\n
+            <li>He found that waves flow, flowers blossom, pyramids are made in the ratio of 1,2,3,5,8,...\n</li>\n
+            <li>This levels he named as Fibonacci levels.\n</li>\n
+            <li>Fibonacci levels are formed by taking high and low levels on chart.\n</li>\n
+            <li>Most common levels 38.2, 50 and 61.8.\n</li>\n
+        </ol>
+    </string>
+    <string name="mfibonacci">
+        <ol>
+            <li>
+                Find three trade entry on basis of Fibonacci retracement, where you can identify the Fib support and can buy with stop loss and exit.\n
+            </li>\n
+            <li>Find two trade entry where Fibonacci extension, is projected.   No trade has to be taken but screen short has to be shared.\n</li>\n
+        </ol>
+    </string>
+    <string name="brands">
+	<ol>
+		<li>
+			Bands are the envelops or trading bands, technical analysis tool used to trade and recognize patterns.\n
+		</li>\n
+		<li>
+			In 1980 John Bollinger invented Bollinger band, which is a band calculating the standard deviation. This band expands and contrasts as per the volatility of the market.\n
+		</li>\n
+		<li>
+			Lets see how a Bollinger band is plotted, and how it helps us.\n
+		</li>\n
+		<li>But before that we need to understand the major trends a market goes through.\n</li>
+		<li>\n
+			Up trend.\n
+		</li>\n
+		<li>
+			Down trend.\n
+		</li>\n
+		<li>
+			Sideway trend. \n
+		</li>\n
+		<li>
+			Deciding which trend market is following, is crucial.\n
+		</li>\n
+	</ol>
+
+
+
+</string>
+    <string name="kbrands">
+
+	<ol>
+		<li>
+			One more band for volatility based trading is  Keltner Channel, it is a volatility based trading indicator that uses two bands and the average true range to set the channel distance below and above an exponential moving average, generally 20 period EMA.\n
+		</li>\n
+		<li>
+			Lets see how to plot and trade with Keltner band.\n
+		</li>\n
+	</ol>
+    </string>
+    <string name="pbrands">
+        <b>
+		Project for live market.
+	</b>\n\n
+	<ol>
+		<li>
+			MODULE BOLLIGER BAND AND KELTNER BAND.\n
+		</li>\n
+		<li>
+			MODULE BOLLIGER BAND AND KELTNER BAND.\n
+		</li>\n
+		<li>
+			Find three trades of BB is inside KB.\n
+		</li>\n
+	</ol>
+    </string>
+    <string name="volume">
+        <ol>
+		<li>
+			Trading Volume is the number of shares traded in a particular script.\n
+		</li>\n
+		<li>
+			It is further studied as volume traded during the particular candle, i.e. during the day, if the candle is of daily, or it can be volume traded during the hour if the candle is of hourly time frame, or any such time.\n
+		</li>\n
+		<li>
+			Volume on its own doesn’t give a trading signal but can support an indicator.\n
+		</li>\n
+	</ol>
+    </string>
+
+    <string name="cvolume">
+        <b>
+		VOLUME FOR CONFIRMATION.
+	</b>\n\n
+	<ol>
+		<li>
+			Volume is used as confirmation of trend. Volume is also used to confirm the reversal of trend.\n
+		</li>\n
+	</ol>
+	<b>
+		Module Volume\n
+	</b>\n
+	<ol>
+		<li>
+			Find three incident of rise in volume that will affect the breakouts of resistance.\n
+		</li>\n
+		<li>
+			Find two incident of rise in volume that will affect the support breakouts.\n
+		</li>\n
+		<li>
+			Mention your entry, stop loss and exit.\n
+		</li>\n
+		<li>
+			Share the screenshots before entry and after exit.\n
+		</li>\n
+	</ol>
+    </string>
+
+    ------
+
+    <string name="python1">
+	<b>
+		Variables
+	</b>\n\n
+	<ol>
+		<li>
+			A variable is a reserved memory location in your RAM to store certain values for processing.\n
+		</li>\n
+		<li>
+			A variable is declared when you assign certain value to it.\n
+		</li>\n
+		<li>
+			Variable names should always start with a letter or underscore and not with a number.\n
+		</li>\n
+		<li>
+			Variable names can contain alpha-numeric characters.\n
+		</li>\n
+		<li>
+			Variable names are case-sensitive.\n
+		</li>\n
+	</ol>\n\n
+	<b>
+		Data Types In Python
+	</b>\n\n
+	<ol>
+		<li>
+			Variables are used to store different data types.\n
+		</li>\n
+		<li>
+			Its specified as the type of value it can hold and what operations it can perform depending on the type of data.\n
+		</li>\n
+	</ol>
+</string>
+
+    <string name="Staistics">
+	<b>
+		Choosing the Appropriate Statistics
+	</b>\n\n
+	<ol>
+		Some factors to consider:
+		<li>
+			Research design\n
+		</li>
+		<li>
+			Number of groups\n
+		</li>
+		<li>
+			Number of variables\n
+		</li>
+		<li>
+			Level of measurement\n(nominal, ordinal, interval/ratio)\n
+		</li>
+	</ol>
+</string>
+
+    ---------------------------------------------------------------------------------------------------
+
+
+
+    <string name="typesofstat">
+	<ol>
+		<li>
+			<b>Descriptive statistics</b> characterize the attributes of a set of measurements. Used to summarize data, to explore patterns of variation, and describe changes over time.\n
+		</li>
+		<li>
+			<b>Inferential statistics</b> are designed to allow inference from a statistic measured on sample of cases to a population parameter. Used to test hypotheses about the population as a whole.\n
+		</li>
+	</ol>
+	<b>
+		Requisite Conditions for Causation\n\n
+	</b>
+	In order for X to cause Y: \n
+<ol>
+	<li>
+		X &amp; Y must be associated\n
+	</li>
+	<li>
+		X must precede Y in time\n
+	</li>
+	<li>
+		X contains unique information about Y that is not articulated elsewhere\n
+	</li>
+</ol>\n
+<b>
+	Randomization\n\n
+</b>
+<ol>
+	<li>
+		<b>Random selection</b> is how you draw the sample for your study from a population.\n
+	</li>
+	<li>
+		This is related to the external validity, or generalizability, of your results.\n
+	</li>
+	<li>
+		<b>Random assignment</b> is how you assign your sample to groups or treatments in your study.\n
+	</li>\n
+	<li>
+		This is related to internal validity.\n
+	</li>\n
+	<li>
+		Random assignment is a required feature of a true experimental design.\n
+	</li>\n
+</ol>
+<b>
+	Variables\n
+</b>\n
+<ol>
+<li>
+	Variables are qualities, properties, or characteristics of persons, things, or situations that change or vary and are manipulated, measured, or controlled in research.\n
+</li>
+<li>
+	More simply stated:\nVariables are things that we measure, control, or manipulate in research.\n
+</li>
+</ol>
+<b>
+	Types of Variables\n
+</b>
+<ol>
+	<li>
+		<b>Independent variables</b> are manipulated or varied by the researcher, for example, intervention or treatment.\n
+	</li>\n
+	<li>
+		<b>Dependent variables</b> are the responses, outcomes, etc. that are measured by the researcher.\n</li>\n
+		<li>
+			<b>Extraneous variables</b> are not part of the research design, but may have an impact on the dependent variable(s).\n
+		</li>\n
+</ol>
+<b>Levels of Measurement</b>\n
+<ol>
+	<li>
+		Nominal\n
+	</li>\n
+	<li>
+		Ordinal\n
+	</li>\n
+	<li>
+		Interval\n
+	</li>\n
+	<li>
+		Ratio\n
+	</li>\n
+</ol>
+<b>
+	Nominal-Level Variables
+	\n
+</b>
+<ol>
+	<li>
+		Data are organized into categories\n
+	</li>\n
+	<li>
+		Categories have no inherent order\n
+	</li>\n
+<li>
+	Categories are exclusive\n
+</li>\n
+<li>
+	Categories are exhaustive
+\n
+</li>\n
+<li>
+	Examples are sex, ethnicity, marital status
+\n</li>\n
+</ol>
+<b>
+	Examples of Nominal-Level Questions
+	\n
+</b>\n
+<ol>
+	<li>
+		Do you have a loss of appetite?\n
+	</li>\n
+	<li>
+		Do you smoke a lot?\n
+	</li>\n
+	<li>
+		What is your ethnicity?\n
+	</li>\n
+</ol>
+<b>Ordinal-Level Variables\n\n</b>
+<ol>
+	<li>
+		Categories can be ranked in order\n
+	</li>\n
+	<li>
+		Intervals between categories may not be equal\n
+	</li>\n
+	<li>
+		Examples are socioeconomic status, level of education attained (elementary school, high school, college degree, graduate degree)\n
+	</li>\n
+</ol>
+<b>
+	Examples of Ordinal-Level Questions\n\n
+</b>
+<ol>
+	<li>
+		Would Intervention X be your 1st, 2nd, or 3rd choice of treatment for Condition Y?\n
+	</li>
+</ol>
+<ol type="i">
+	<li>
+		<b>First choice</b>\n
+	</li>\n
+	<li>
+		<b>Second choice</b>\n
+	</li>\n
+	<li>
+		<b>Third choice</b>\n
+	</li>\n
+</ol>
+<ol>
+	<li>
+		Beck Depression Scale – Sadness Item\n
+	</li>\n
+</ol>
+<ol type="i">
+<li>
+		<b> I do not feel sad</b>\n
+	</li>\n
+	<li>
+		<b>I feel sad</b>\n
+	</li>\n
+	<li>
+		<b>I am sad all the time and I can’t snap out of it</b>\n
+	</li>\n
+	<li>
+		<b>I am so sad or unhappy that I can’t stand it
+</b>\n
+	</li>\n
+</ol>
+<b>Interval-Level Variables\n</b>
+<ol>
+	<li>
+		Distances between levels of the scale are equal\n
+	</li>\n
+	<li>
+		Assumed to be a continuum of values\n
+	</li>\n
+	<li>
+		An example is temperature (measured in Fahrenheit or Centigrade)\n
+	</li>\n
+</ol>
+<b>
+	Examples of Interval-Level Variables\n
+</b>\n
+<ol>
+	<li>
+		IQ scores\n
+	</li>\n
+	<li>
+		GRE scores\n
+	</li>\n
+	<li>
+		Composite scores of multi-item scales
+		\n
+	</li>\n
+</ol>
+<b>Ratio-Level Variables\n</b>
+<ol>
+	<li>
+		Equal spacing between intervals\n
+	</li>\n
+	<li>
+		Have an identifiable absolute zero point\n
+	</li>\n
+	<li>
+		Examples are weight, length, volume, and temperature (measured in Kelvin)
+\n</li>\n
+<li>
+	In statistical analysis, typically there is no distinction made between interval level and ratio level
+\n</li>\n
+</ol>
+<b>Importance of Levels of Measurement\n\n</b>
+<ol>
+	<li>
+		Level of measurement is associated with the type of statistical method used.\n
+	</li>\n
+	<li>
+		Higher levels of measurement provide more information than do lower levels. \n
+	</li>\n
+	<li>
+		In general, you should use the highest level of measurement possible. For example, measure actual age in years, not in age groups.\n
+	</li>\n
+</ol>
+<b>Some Terminology\n</b>\n
+<ol>
+	<li>
+		<b>Descriptive statistics</b>\nStatistics that allow the researcher to organize or summarize data to give meaning or facilitate insight.\n
+	</li>\n
+	<li>
+		<b>Inferential statistics</b>\nMethods that allow inferences to be made from a sample to a population\n
+	</li>
+	<li>
+		<b>Hypothesis testing</b>\nA statistical test of an expected relationship between two or more variables
+	</li>
+</ol>
+<b>Some Commonly-Used Multivariate Methods</b>\n\n
+<ol>
+	<li>
+		<b>Analysis of Variance and Covariance</b>\nTests for differences in group means\n
+	</li>\n
+	<li>
+		<b>Multiple Regression Analysis</b>\nEstimates the value of a dependent variable based on the value of several independent variables\n
+	</li>\n
+	<li>
+		<b>Reliability analysis</b>\nAssesses the consistency of multi-item scales\n
+	</li>\n
+	<li>
+		<b>Factor Analysis</b>\nExamines the relationships among variables and\nreveals related sets of variables (constructs)\n
+	</li>\n
+	<li><b>Structural Equation Modeling</b>\nMethods for testing theories about the relationships among variables
+\n</li>\n
+</ol>
+</string>
+
+    <string name="stst">
+	<b>
+		Statistical Power Analysis\n
+	</b>\n
+<ol>
+	<li>
+		Prior to conducting a study, it is advisable to conduct a statistical power analysis\n
+	</li>\n
+	<li>
+		Power is the probability that a statistical test will detect a significant effect that exists.\n
+	</li>\n
+	<li>
+		The power analysis will suggest an adequate sample size for the study.\n
+	</li>\n
+</ol>
+<b>Four parameters related to the power of a test:\n</b>\n
+<ol>
+	<li>
+		Significance level (a)\n
+	</li>\n
+	<li>
+		Sample size (n)\n
+	</li>\n
+	<li>
+		Effect size (ES)\n
+	</li>\n
+	<li>
+		  Power (1 - b)\n
+	</li>\n
+</ol>
+<b>
+	Relationship between power and other parameters:\n
+</b>\n
+<ol>
+	<li>
+		As significance level (a) decreases\n numerically, power decreases\n
+	</li>\n
+	<li>
+		As effect size increases, power\nincreases\n
+	</li>\n
+	<li>
+		As sample size increases, power\nincreases\n
+	</li>\n
+</ol>
+<b>There are a lot of statistical power analysis resources (including interactive power calculators) on the World Wide Web.\n</b>\n
+</string>
+
+
 </resources>

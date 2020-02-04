@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ai2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="10sp"
+        android:text="Statistics"
+        android:textColor="#008FFF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20sp"
+        android:paddingTop="10sp"
+        android:paddingRight="5sp"
+        android:text="@string/Staistics"
+        android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10sp"
+            android:text="Some Statistics-Related Web Sites \nThe University of Kansas Virtual Statistical Assistant\nhttp://www.ku.edu/~coms/virtual_assistant/vsa/"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="20dp"
+            android:paddingTop="10sp"
+            android:text="Biostatistics for the Clinician Hypertext Glossary\nPart 1:\nhttp://www.uth.tmc.edu/uth_orgs/educ_dev/oser/LGLOS1_0.HTM"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10sp"
+            android:text="Part 2: \nhttp://www.uth.tmc.edu/uth_orgs/educ_dev/oser/LGLOS2_0.HTM"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10sp"
+            android:text="Research Methods Knowledge Base \n http://www.socialresearchmethods.net/kb/"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10sp"
+            android:text="@string/typesofstat"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10sp"
+            android:text="Rice Virtual Lab in Statistics http://www.ruf.rice.edu/~lane/rvls.html"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10sp"
+            android:text="Multimedia Resources for Statistics Students http://research.ed.asu.edu/msms/multimedia/multimedia.cfm"
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10sp"
+            android:text="Statistics and Statistical Graphics Resources http://www.math.yorku.ca/SCS/StatResource.html"
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10sp"
+            android:text="@string/stst"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10sp"
+            android:text="For example, see the StatPages.net web site at:\nhttp://members.aol.com/johnp71/javastat.html#Power\nOr, using a WWW search engine like Yahoo or Google, use the search string:\nstatistical power analysis"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10sp"
+            android:text="Credit and Refrences\nhttp://www.public.asu.edu/~eagle/stat_sampler.ppt"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="5500dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/statistics1" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="5700dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/statistics2" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="7710dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/statistics3" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10000dp"
+            android:paddingBottom="10sp"
+            app:srcCompat="@drawable/statistics4"/>
+
+    </LinearLayout>
+
+</ScrollView>
